@@ -1,4 +1,4 @@
-I have used these codesin my last project on "Deformation Mechanism of Pt Nanoparticle". These data post processing codes with python are built for processind LAMMPS data files. 
+I have used these codes in my last project on "Deformation Mechanism of Pt Nanoparticle". These data post processing codes with python are built for processind LAMMPS data files. 
 
 
 LAMMPS have coordination of each atom, total force, pressure, energy, temperature of material on every time step.
